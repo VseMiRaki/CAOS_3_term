@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HW3_0.dir/main.c.o  -o HW3_0 

@@ -1,0 +1,3 @@
+/home/nikita/Documents/University/Code projects/OOP_3_term/HW9_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/Documents/University/Code projects/OOP_3_term/HW9_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Documents/University/Code projects/OOP_3_term/HW9_2/cmake-build-debug/CMakeFiles/HW9_2.dir

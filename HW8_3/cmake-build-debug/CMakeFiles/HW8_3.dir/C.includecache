@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/Documents/University/Code projects/CAOS_3_term/HW8_3/main.c
+stdio.h
+-
+windows.h
+-
+unistd.h
+-
+stdint.h
+-
+

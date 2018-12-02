@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/Documents/University/Code projects/CAOS_3_term/HW8_2/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+stdint.h
+-
+
